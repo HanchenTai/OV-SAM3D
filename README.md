@@ -1,3 +1,3 @@
 # OV-SAM3D
 Open-Vocabulary SAM3D: Understand Any 3D Scene  
-[Paper](url)
+https://img.shields.io/badge/{Paper}-{Arxiv}-{green}.svg(url)
