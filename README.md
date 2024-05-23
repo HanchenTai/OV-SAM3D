@@ -8,10 +8,10 @@ Open-Vocabulary SAM3D: Understand Any 3D Scene
 ## Method
 ![image](../main/assets/framework.png)  
 
-## Results in open tags
+## Results with open tags
 ![image](../main/assets/open_tags.png)
 
-## Results in text query
+## Results with text query
 ![image](../main/assets/query_results1.png)  
 
 ![image](../main/assets/query_results2.png)  
