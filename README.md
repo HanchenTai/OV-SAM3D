@@ -1,4 +1,4 @@
-GET /badge/:badgeContent
 # OV-SAM3D
 Open-Vocabulary SAM3D: Understand Any 3D Scene  
-https://img.shields.io/badge/any_text-you_like-blue
+![Static Badge](https://img.shields.io/badge/Paper-Arxiv-green)
+
