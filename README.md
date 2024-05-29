@@ -1,6 +1,6 @@
 # OV-SAM3D
 Open-Vocabulary SAM3D: Understand Any 3D Scene  
-[![Static Badge](https://img.shields.io/badge/Paper-Arxiv-green)](url) [![Static Badge](https://img.shields.io/badge/Code-Github-blue)](.)  
+[![Static Badge](https://img.shields.io/badge/Paper-Arxiv-green)](https://arxiv.org/abs/2405.15580) [![Static Badge](https://img.shields.io/badge/Project-Page-blue)](https://hithqd.github.io/projects/OV-SAM3D/)  
 
 ## Introduction
 ![image](../main/assets/trait.png)  
