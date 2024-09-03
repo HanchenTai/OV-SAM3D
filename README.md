@@ -1,5 +1,5 @@
 # OV-SAM3D
-Open-Vocabulary SAM3D: Towards Training-free Open-Vocabulary 3D Scene Understanding
+Open-Vocabulary SAM3D: Towards Training-free Open-Vocabulary 3D Scene Understanding  
 [![Static Badge](https://img.shields.io/badge/Paper-Arxiv-green)](https://arxiv.org/abs/2405.15580) [![Static Badge](https://img.shields.io/badge/Project-Page-blue)](https://hithqd.github.io/projects/OV-SAM3D/)  
 
 ## Introduction
