@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ovsam3d"
+description = "Open-Vocabulary SAM3D: Understand Any 3D Scene"
+
+readme = "README.md"
+urls = {github = "https://github.com/HanchenTai/OV-SAM3D"}
+dynamic = ["version"]
+
+[tool.setuptools]
+packages = ["ovsam3d"]
+
+[tool.setuptools.dynamic]
+version = {attr = "ovsam3d.__version__"}
